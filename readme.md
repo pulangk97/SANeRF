@@ -9,6 +9,6 @@ Next, activate the environment:
 conda activate sanerf
 ```
 Install the following dependency:
-[nvdiffrast](https://nvlabs.github.io/nvdiffrast/)
-[tiny-cuda-nn]([https://nvlabs.github.io/nvdiffrast/](https://github.com/NVlabs/tiny-cuda-nn))
+[nvdiffrast](https://nvlabs.github.io/nvdiffrast/)  
+[tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)
 
