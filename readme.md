@@ -30,7 +30,7 @@ Please download the nerf_synthetic dataset from the NeRF official project.
 ```
 bash ./scripts/reproduce_sanerf.sh
 ```  
-The reproduced results may have an error within 0.05.  
+The reproduced results have an error margin of 0.05.  
 ## Reproduce baseline's results
 Replace ``` method=sanerf ``` with  ``` method=trimiprf ``` in "./scripts/reproduce_sanerf.sh" , then run:  
 ```
