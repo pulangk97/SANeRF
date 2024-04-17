@@ -1,5 +1,8 @@
 ## Overview
+Code implementation of SANeRF.  
 This code is implemented based on [TriMipRF](https://github.com/wbhu/Tri-MipRF).   
+![overview](/overview/method.jpg)
+
 ## Installation
 First, create a new sanerf environment:
 ```
@@ -16,4 +19,6 @@ Install the following dependency:
 ```
 pip install -r requirements.txt
 ```
+
+## DATA 
 
