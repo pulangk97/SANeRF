@@ -4,7 +4,7 @@ Code implementation of **SANeRF**.
 ![overview](/overview/overview.png)  
 
 Comparisons:
-<img src="/overview/drums.gif" width="300" height="300" alt="drums">
+<img src="/overview/drums.gif" width="600" height="300" alt="drums">
 
 This code is implemented based on [TriMipRF](https://github.com/wbhu/Tri-MipRF).   
 ## Installation
