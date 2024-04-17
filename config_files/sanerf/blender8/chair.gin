@@ -3,7 +3,7 @@ main.num_workers = 16
 main.model_name = 'Tri-MipRF'
 main.batch_size = 24 # this is not the actual batch_size, but the prefetch size
 
-RayDataset.base_path = '/path/to/nerf_synthetic' # nerf_synthetic_multiscale
+RayDataset.base_path = '/path/to/nerf_synthetic'
 RayDataset.scene = 'chair'
 RayDataset.scene_type = 'nerf_synthetic'
 RayDataset.num_views = 8
