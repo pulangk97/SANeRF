@@ -1,5 +1,5 @@
 ## Overview
-Code implementation of SANeRF.  
+Code implementation of **SANeRF**.  
 
 ![overview](/overview/overview.png)  
 This code is implemented based on [TriMipRF](https://github.com/wbhu/Tri-MipRF).   
