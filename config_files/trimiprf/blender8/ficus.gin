@@ -1,0 +1,21 @@
+main.train_split = 'train'
+main.num_workers = 16
+main.model_name = 'Tri-MipRF'
+main.batch_size = 24 # this is not the actual batch_size, but the prefetch size
+
+RayDataset.base_path = '/media/xyr/data11/datasets/nerf_synthetic'
+RayDataset.scene = 'ficus'
+RayDataset.scene_type = 'nerf_synthetic'
+RayDataset.num_views = 8
+RayDataset.down_scale = 2
+
+
+Trainer.base_exp_dir = '/media/xyr/data11/code/trimip/Tri-MipRF-clean/code/out/trimip/blender/ficus'
+Trainer.exp_name = None
+Trainer.eval_step = 2500
+Trainer.log_step = 100
+Trainer.max_steps = 2501
+Trainer.target_sample_batch_size = 262144
+
+
+
