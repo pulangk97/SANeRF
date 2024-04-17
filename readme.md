@@ -3,7 +3,7 @@ Code implementation of **SANeRF**.
 
 ![overview](/overview/overview.png)  
 
-[drums](/overview/drums.mp4)  
+[drums](/overview/drums.gif)  
 
 This code is implemented based on [TriMipRF](https://github.com/wbhu/Tri-MipRF).   
 ## Installation
