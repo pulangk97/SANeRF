@@ -1,8 +1,8 @@
 ## Overview
 Code implementation of SANeRF.  
-This code is implemented based on [TriMipRF](https://github.com/wbhu/Tri-MipRF).   
-![overview](/overview/method.jpg)
 
+![overview](/overview/overview.png)  
+This code is implemented based on [TriMipRF](https://github.com/wbhu/Tri-MipRF).   
 ## Installation
 First, create a new sanerf environment:
 ```
