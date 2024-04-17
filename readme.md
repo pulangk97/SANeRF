@@ -2,6 +2,11 @@
 Code implementation of **SANeRF**.  
 
 ![overview](/overview/overview.png)  
+
+<video width="320" height="240" controls>
+  <source src="/overview/drums.mp4" type="video/mp4">
+</video>
+
 This code is implemented based on [TriMipRF](https://github.com/wbhu/Tri-MipRF).   
 ## Installation
 First, create a new sanerf environment:
