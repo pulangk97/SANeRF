@@ -10,7 +10,7 @@ RayDataset.num_views = 8
 RayDataset.down_scale = 2
 
 
-Trainer.base_exp_dir = '/media/xyr/data11/code/trimip/Tri-MipRF-clean/code/out/trimip/blender/drums'
+Trainer.base_exp_dir = '/path/to/experiment/log/dir'
 Trainer.exp_name = None
 Trainer.eval_step = 2500
 Trainer.log_step = 100
