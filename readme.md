@@ -32,7 +32,7 @@ bash ./scripts/reproduce_sanerf.sh
 ```
 
 ## Reproduce baseline's results
-replace the ``` method=sanerf ``` to  ``` method=trimiprf ``` , then run:  
+Replace ``` method=sanerf ``` with  ``` method=trimiprf ``` in "./scripts/reproduce_sanerf.sh" , then run:  
 ```
 bash ./scripts/reproduce_sanerf.sh
 ```
