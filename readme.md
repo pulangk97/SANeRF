@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## DATA 
 ### nerf_synthetic dataset
-Please download the nerf_synthetic data from the NeRF official Google Drive.
+Please download the nerf_synthetic dataset from the NeRF official project.
 
 ## Reproduce SANeRF's results
 ```
