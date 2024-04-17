@@ -23,4 +23,6 @@ pip install -r requirements.txt
 ```
 
 ## DATA 
+### nerf_synthetic dataset
+Please download and unzip >nerf_synthetic.zip from the NeRF official Google Drive.
 
