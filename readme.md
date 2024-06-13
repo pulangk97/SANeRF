@@ -1,5 +1,5 @@
 ## Overview
-Code implementation of **SANeRF**.  
+Code implementation of [**Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering**](https://arxiv.org/abs/2406.07828) 
 ![overview](/overview/overview.png)  
 Comparisons:  
 <img src="/overview/drums.gif" width="400" height="200" alt="drums"> <img src="/overview/lego.gif" width="400" height="200" alt="lego">
@@ -35,6 +35,17 @@ The reproduced results have an error margin of 0.05dB.
 Replace ``` method=sanerf ``` with  ``` method=trimiprf ``` in "./scripts/reproduce_sanerf.sh" , then run:  
 ```
 bash ./scripts/reproduce_sanerf.sh
+```
+
+## Citation
+If you find our work useful, please cite it as  
+```
+@InProceedings{Yang2023FreeNeRF,
+    author    = {Jiawei Yang and Marco Pavone and Yue Wang},},  
+    title     = {FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization},
+    booktitle = {Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
+    year      = {2023},
+}
 ```
 
 
