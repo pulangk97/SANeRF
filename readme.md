@@ -40,11 +40,13 @@ bash ./scripts/reproduce_sanerf.sh
 ## Citation
 If you find our work useful, please cite it as  
 ```
-@InProceedings{Yang2023FreeNeRF,
-    author    = {Jiawei Yang and Marco Pavone and Yue Wang},},  
-    title     = {FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization},
-    booktitle = {Proc. IEEE Conf. on Computer Vision and Pattern Recognition (CVPR)},
-    year      = {2023},
+@misc{xiao2024spatial,
+      title={Spatial Annealing Smoothing for Efficient Few-shot Neural Rendering}, 
+      author={Yuru Xiao and Xianming Liu and Deming Zhai and Kui Jiang and Junjun Jiang and Xiangyang Ji},
+      year={2024},
+      eprint={2406.07828},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
