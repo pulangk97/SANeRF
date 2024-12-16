@@ -40,7 +40,15 @@ bash ./scripts/reproduce_sanerf.sh
 ## Citation
 If you find our work useful, please cite it as  
 ```
-
+@misc{xiao2024spatialannealingefficientfewshot,
+      title={Spatial Annealing for Efficient Few-shot Neural Rendering}, 
+      author={Yuru Xiao and Deming Zhai and Wenbo Zhao and Kui Jiang and Junjun Jiang and Xianming Liu},
+      year={2024},
+      eprint={2406.07828},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2406.07828}, 
+}
 ```
 
 
