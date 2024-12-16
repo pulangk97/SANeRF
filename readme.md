@@ -1,5 +1,5 @@
 ## Overview
-Code implementation of [**Spatial Annealing for Efficient Few-shot Neural Rendering**](https://arxiv.org/abs/2406.07828) 
+Code implementation of [**Spatial Annealing for Efficient Few-shot Neural Rendering (AAAI 2025)**](https://arxiv.org/abs/2406.07828) 
 ![overview](/overview/overview.png)  
 Comparisons:  
 <img src="/overview/drums.gif" width="400" height="200" alt="drums"> <img src="/overview/lego.gif" width="400" height="200" alt="lego">
